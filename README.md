@@ -7,7 +7,7 @@ I'm **Robert K. Engelmann**, a passionate blockchain developer dedicated to buil
 </p>
 
 <p align="left">
-  <a href="https://x.com/badshahafridi06"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/AttilioUdinesi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 Over time, I have worked on projects spanning DeFi platforms, NFT marketplaces, and blockchain-based applications, all aimed at solving meaningful problems and learning through hands-on experience. I enjoy collaborating with fellow developers, sharing knowledge, and exploring innovative ways to push the boundaries of decentralized technology.
